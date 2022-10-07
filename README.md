@@ -3,7 +3,6 @@
 <p><em>Developer Front Edn Junior studying at <a href="https://www.laboratoria.la/br">Laboratoria</a>
 </em></p>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ### Programming Languages 🌐
 <div style="display: inline_block"><br>
